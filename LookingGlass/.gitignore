@@ -1,0 +1,7 @@
+/__init__.pyc
+/settings.pyc
+/urls.pyc
+/wsgi.pyc
+*sqlite3
+*DS_Store
+*pyc
