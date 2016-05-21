@@ -1,5 +1,5 @@
 # LookingGlass
-Context based Image Search Engine 
+Context based Image Search Engine\n 
 CS6675/CS4675: Advanced Internet Computing  Project
 
 As the popular saying goes, a picture is worth a thousand words. A picture (or a series of them) has an amazing ability to convey emotion, mood, narrative, ideas and messages. Conveying the most elemental part of the stories to those that view them. In general, articles become more interesting when there are illustrations around them. The illustrations somehow make the stories more alive and they enhance your imagination. Imagine reading an article about Tourism Australia. An image or a few images showing the scenic beauty of Australia would have more impact on the mind of the reader than the article itself.
