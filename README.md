@@ -1,9 +1,10 @@
 # LookingGlass
-Context based Image Search Engine\n 
-CS6675/CS4675: Advanced Internet Computing  Project
+Context based Image Search Engine
+
+CS6675/CS4675: Advanced Internet Computing Project
 
 As the popular saying goes, a picture is worth a thousand words. A picture (or a series of them) has an amazing ability to convey emotion, mood, narrative, ideas and messages. Conveying the most elemental part of the stories to those that view them. In general, articles become more interesting when there are illustrations around them. The illustrations somehow make the stories more alive and they enhance your imagination. Imagine reading an article about Tourism Australia. An image or a few images showing the scenic beauty of Australia would have more impact on the mind of the reader than the article itself.
-Today we have a lot of active recommender systems in different segments of the market and web search has mostly transformed into providing worthwhile recommendations to users based on personal preferences and browsing history. However, there are only a handful of those which deal with image recommendations. We intend to build an image recommendation system that automatically analyzes the content of an article/web page and suggests images (or one image) which best represent the context of the article. This feature will lend more visual appeal to the article and make it more impactful. The app will also provide an option to incorporate the image within the article depending on the article type. The user can then download/use the final product as required.
+Today we have a lot of active search and recomender systems in different segments of the market and web search has mostly transformed into providing worthwhile recommendations to users based on personal preferences and browsing history. However, there are only a handful of those which deal context specific image searches based on large textual data. We intend to build an image search engine that automatically analyzes the content of an article/web page and suggests images (or one image) which best represent the context of the article. This feature will lend more visual appeal to the article and make it more impactful. The app will also provide an option to incorporate the image within the article depending on the article type. The user can then download/use the final product as required.
 
 This project is a novel implementation of an image recommender system. It is different from typical image searches for reasons described above. Some of the most interesting contributions of this project are: 
 It allows users to query the entire content of the document and not be limited to a couple of words of query length.
